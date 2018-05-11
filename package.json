@@ -1,0 +1,22 @@
+{
+  "name": "local_weather",
+  "version": "1.0.1",
+  "description": "an app to display local weather condition",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asipita/local_weather.git"
+  },
+  "author": "shuaib Abdulgafar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asipita/local_weather/issues"
+  },
+  "homepage": "https://github.com/Asipita/local_weather#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
