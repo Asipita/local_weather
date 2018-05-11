@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url(../images/sunny.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg_image {
+    height: 100vh;
+    width: 100vw;
+    display: none;
+}
+
+.summar {
+    width: 60%;
+    height: 60vh;
+    margin: 70px auto;
+    color: white !important;
+    background-color: rgba(1, 8, 6, 0.68);
+}
+
+.descrip {
+    width: 100%;
+    border-bottom: 2px solid white;
+}
+
+.fix {}
+
+.inner {
+    margin-top: 3rem;
+}
+
+.w3-circle {
+    border-radius: 50% !important;
+}
